@@ -1,0 +1,55 @@
+.en-tete {
+    
+    font-size: small;
+}
+p {
+    margin: 10px;
+}
+button {
+    background-color: aqua;
+    padding: 15px 30px;
+    cursor: pointer;
+    transition: 0.03s;
+}
+button:hover {
+    background-color: rgb(125, 159, 159);
+}
+button:active {
+    background-color: rgb(11, 114, 114);
+}
+.void {
+    color: rgb(255, 255, 255);
+}
+h1 {
+    text-align: center;
+}
+.tdd {
+    padding: 5px 30px;
+}
+h2 {
+    color: rgb(255, 255, 255) ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+li {
+    padding: 5px 15px;
+}
+.ffont {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(44, 70, 70);
+}
+.ptext {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:larger;
+}
+.center {
+    display: flex;
+    justify-content: center;
+}
+h4 {
+    text-align: center;
+    font-size: larger;
+}
+h6 {
+    text-align: center;
+
+}
